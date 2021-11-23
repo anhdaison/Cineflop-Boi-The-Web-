@@ -1,0 +1,37 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  height: 100vh;
+  width: 100%;
+  background-image: url(IMG_0281.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-left: 5%;
+  padding-right: 5%;
+  box-sizing: border-box;
+  position: relative;
+}
+
+  h1 {
+    font-family: Georgia;
+    color: orange;
+    font-size: 50px;
+  }
+
+  h2 {
+    font-family: Time New Roman;
+    color: beige;
+    font-size: 25px;
+  }
+
+  body {
+    font-family: Courier New;
+    color: white;
+    font-size: 15px;
+    text-shadow: 2px 2px 8px #000000;
+  }
